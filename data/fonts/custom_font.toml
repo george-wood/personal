@@ -1,10 +1,8 @@
 # Font style metadata
-name = "Minimal"
+name = "minimal"
 
 # Optional Google font URL
-google_fonts = "family=Inter:wght@300;400;500;600;700;800;900&display=swap"
-#google_fonts = "family=Roboto:wght@300;400;500;600;700&family=Encode+Sans:wght@400;500;700;800;900&display=swap"
-#google_fonts = "family=Noto+Sans:wght@300;400;500;600;700&family=Work+Sans:wght@400;500;700;800;900&display=swap"
+google_fonts = "family=Inter:wght@300;400;500;600;700;800;900&family=Roboto+Mono:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap"
 
 # Font families
 heading_font = "Inter" # Work Sans
